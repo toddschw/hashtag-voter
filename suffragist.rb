@@ -9,7 +9,7 @@ Choices = {
 }
 
 get '/' do
-  @title = 'Welecome to HashTag Voting!'
+  @title = 'Welcome to HashTag Voting for FLLC3!'
   erb :index
 end
 
