@@ -1,0 +1,37 @@
+body {
+ margin: 0;
+ background-image: url(../images/background.jpg);
+ background-size: 100%;
+ background-repeat:no-repeat;
+ background-color: lightgreen;
+ display: compact;
+ border-radius: 0px
+ font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
+ }
+h1{
+    font-family: "Arial Black";
+}
+div {
+    font-size: 1.1em;
+}
+#like_best, #cast, table {
+    color: gray;
+}
+img{
+    width: 20vw;
+    padding: 1em;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+ul {
+    width: 40vw;
+    margin: 0 auto;
+    list-style-type: none;
+    background-color: rgba(0, 0, 0, 0.1);
+    color: white;
+    text-align: left;
+}
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.3);;
+    color: white;
+}
